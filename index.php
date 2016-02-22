@@ -1,1 +1,3 @@
-<h1>Hello world</h1>
+<?php 
+	header("localtion: views/login/")
+?>

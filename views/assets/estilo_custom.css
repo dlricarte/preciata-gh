@@ -1,0 +1,92 @@
+@CHARSET "utf-8";
+
+header{
+	position:relative;
+	padding-top:20px;
+	height: 100px;
+	/* background:  url(http://www.preciata.com.br/wp-content/uploads/2013/05/background.jpg); */
+	/* text-align: center; */
+}
+
+body{
+	font-size: 1.3em !important;
+	/* background:  url(http://www.preciata.com.br/wp-content/uploads/2013/05/background.jpg); */
+	background-color: #fff;
+	color: #555;	
+}
+
+.container{
+	/* background-color: #f3f3f3; */
+	background-color: #ffffff;
+	height: 100%;
+	border: 1px solid #ddd;
+}
+
+.table th, .table thead{
+	background-color: #963;
+	color: #fff;
+}
+
+.table{
+	background-color: #ddd;
+}
+
+.img-titulo{
+	width: 32px;
+	vertical-align: top;
+}
+
+.img-prod{
+	width:100%;
+	max-width: 200px
+}
+
+.img-menu{
+	width:32px;	
+}
+
+.logo{
+	width:300px;
+}
+
+.logo-nav{
+	width:100px;
+}
+
+.right{
+	/*float: right;*/
+	text-align: right;
+}
+.view-qtd{
+	font-size:5em;
+}
+
+.centro{
+	width:300px;
+	height:300px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-50px;
+	margin-left:-150px;
+}
+
+.login-centro{
+	width:300px;
+	height:300px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-200px;
+	margin-left:-150px;
+}
+
+.lista{
+	overflow-y: scroll; height:400px;
+}
+
+.etiquetas{
+	text-align:center;
+	width: 160px !important;
+	height:56px;
+}
